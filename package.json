@@ -48,7 +48,7 @@
     "formik": "^2.2.9",
     "framer-motion": "^7.3.5",
     "fuse.js": "^6.5.3",
-    "graphql": "^16.5.0",
+    "graphql": "^16.8.1",
     "graphql-ruby-client": "^1.10.6",
     "graphql-tag": "^2.12.6",
     "i18next": "^21.6.14",
