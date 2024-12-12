@@ -59,7 +59,7 @@
     "linkify-react": "^3.0.4",
     "linkifyjs": "^3.0.5",
     "lodash": "^4.17.21",
-    "luxon": "^2.3.1",
+    "luxon": "^2.5.2",
     "mini-css-extract-plugin": "^2.6.0",
     "nanoid": "^4.0.0",
     "pluralize": "^8.0.0",
